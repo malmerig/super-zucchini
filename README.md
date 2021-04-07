@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a54e28d-b605-4516-a829-bffeea271926/deploy-status)](https://app.netlify.com/sites/super-zucchini-db31a/deploys)
+
+
 # ✨ super-zucchini ✨
 
 This is a [Jekyll](https://jekyllrb.com) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
